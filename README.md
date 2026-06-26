@@ -1,27 +1,79 @@
-# 💫 About Me:
-Al & Software Engineering I Backend Systems I<br>APIs & SQL / Database Management I Bots &<br>IOT IIT
+# 👋 Hi, I'm Amir Asaad
 
+**AI / Python Engineer | Data Automation | NLP Systems**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-asaad-7a1629377?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameerameerrr8@gmmail.com) 
+I build production-grade AI systems, data pipelines, and automation tools. Currently studying Artificial Intelligence Engineering at Ishtar University College.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amori27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=amori27&theme=dark&hide_border=false)<br/>
+📍 Babylon, Iraq · ✉️ amirasaadprog@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/amir-asaad-7a1629377)
+
+---
+
+## 🚀 Featured Projects
+
+### [AI Data Enrichment API](https://github.com/amori27/ai-data-enrichment-api)
+FastAPI text classification, entity extraction, and summarization with Gemini API + transformer fallback. 28 tests, ruff-clean.
+
+### [ML Playground API](https://github.com/amori27/ml-playground-api)
+REST API for training/serving scikit-learn models with dataset management and model registry. 27 tests, ruff-clean.
+
+### [Data Storytelling Dashboard](https://github.com/amori27/data-storytelling-dashboard)
+Interactive Streamlit + Plotly dashboard with CSV ingestion, dynamic filtering, and automated insights. 28 tests.
+
+### [CLI Automation Toolkit](https://github.com/amori27/cli-automation-toolkit)
+Click-based CLI for ETL workflows: CSV ingestion, data quality checks, transformation, and export. 26 tests.
+
+### [Medical & Psychological RAG System](https://github.com/amori27/med-psych-rag)
+Citation-based RAG for medical documents reducing hallucination rates by ~80%. FastAPI + Gemini.
+
+### [Real-Time Posture Correction](https://github.com/amori27/posture-correction)
+Computer vision posture tracking with MediaPipe pose estimation and ~90% accuracy.
+
+### [Surveillance Vision](https://github.com/amori27/surveillance-vision)
+YOLOv8 object detection with ByteTrack tracking and RTSP camera support.
+
+### [Data Automation & Reporting](https://github.com/amori27/data-automation)
+End-to-end ETL pipeline with SQL/CSV ingestion, Excel generation, Slack/Email delivery.
+
+### [Pi-hole Manager](https://github.com/amori27/pihole-manager)
+Infrastructure-as-Code for Pi-hole with FastAPI backend, Docker, DNS analytics, and blocklist management.
+
+### [Security Surveillance Bot](https://github.com/amori27/security-bot)
+Motion detection bot with Telegram integration and video/audio recording.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, Bash
+
+**Frameworks:** FastAPI, Flask, Streamlit, Click, OpenCV
+
+**ML/AI:** scikit-learn, Transformers, Gemini API, LangChain, RAG, NLP, Computer Vision, PyTorch, TensorFlow
+
+**Data:** Pandas, NumPy, Plotly, Matplotlib, SQLite, BigQuery
+
+**DevOps:** Docker, Git, GitHub Actions, CI/CD, Ruff, pytest
+
+**Cloud:** GCP, AWS
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=amori27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=amori27&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amori27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=amori27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amori27&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=amori27&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Let's Connect
+
+I'm open to remote opportunities in AI engineering, data engineering, and Python backend roles.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-asaad-7a1629377)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirasaadprog@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/amori27)

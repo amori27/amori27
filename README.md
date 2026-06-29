@@ -10,6 +10,9 @@ I build production-grade AI systems, data pipelines, and automation tools. Curre
 
 ## 🚀 Featured Projects
 
+### [⭐ Smart NLP Toolkit API](https://github.com/amori27/smart-nlp-toolkit)
+Production-grade FastAPI NLP microservice: sentiment analysis, language detection (13+ languages), entity extraction, text summarization, and readability scoring. scikit-learn + rule-based NLP. 49 tests, Docker, CI/CD. **Zero API keys required.**
+
 ### [AI Data Enrichment API](https://github.com/amori27/ai-data-enrichment-api)
 FastAPI text classification, entity extraction, and summarization with Gemini API + transformer fallback. 28 tests, ruff-clean.
 
@@ -19,23 +22,11 @@ REST API for training/serving scikit-learn models with dataset management and mo
 ### [Data Storytelling Dashboard](https://github.com/amori27/data-storytelling-dashboard)
 Interactive Streamlit + Plotly dashboard with CSV ingestion, dynamic filtering, and automated insights. 28 tests.
 
-### [CLI Automation Toolkit](https://github.com/amori27/cli-automation-toolkit)
-Click-based CLI for ETL workflows: CSV ingestion, data quality checks, transformation, and export. 26 tests.
-
 ### [Medical & Psychological RAG System](https://github.com/amori27/med-psych-rag)
 Citation-based RAG for medical documents reducing hallucination rates by ~80%. FastAPI + Gemini.
 
 ### [Real-Time Posture Correction](https://github.com/amori27/posture-correction)
 Computer vision posture tracking with MediaPipe pose estimation and ~90% accuracy.
-
-### [Surveillance Vision](https://github.com/amori27/surveillance-vision)
-YOLOv8 object detection with ByteTrack tracking and RTSP camera support.
-
-### [Data Automation & Reporting](https://github.com/amori27/data-automation)
-End-to-end ETL pipeline with SQL/CSV ingestion, Excel generation, Slack/Email delivery.
-
-### [Pi-hole Manager](https://github.com/amori27/pihole-manager)
-Infrastructure-as-Code for Pi-hole with FastAPI backend, Docker, DNS analytics, and blocklist management.
 
 ### [Security Surveillance Bot](https://github.com/amori27/security-bot)
 Motion detection bot with Telegram integration and video/audio recording.
@@ -48,13 +39,11 @@ Motion detection bot with Telegram integration and video/audio recording.
 
 **Frameworks:** FastAPI, Flask, Streamlit, Click, OpenCV
 
-**ML/AI:** scikit-learn, Transformers, Gemini API, LangChain, RAG, NLP, Computer Vision, PyTorch, TensorFlow
+**ML/AI:** scikit-learn, Transformers, Gemini API, LangChain, RAG, NLP, Computer Vision
 
-**Data:** Pandas, NumPy, Plotly, Matplotlib, SQLite, BigQuery
+**Data:** Pandas, NumPy, Plotly, Matplotlib, SQLite
 
 **DevOps:** Docker, Git, GitHub Actions, CI/CD, Ruff, pytest
-
-**Cloud:** GCP, AWS
 
 ---
 

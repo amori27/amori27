@@ -4,7 +4,7 @@
 
 I build production-grade AI systems, data pipelines, and automation tools. Currently studying Artificial Intelligence Engineering at Ishtar University College.
 
-📍 Babylon, Iraq · ✉️ amirasaadprog@gmail.com · 🔗 [LinkedIn](www.linkedin.com/in/amirasaad-ai)
+📍 Babylon, Iraq · ✉️ amirasaadprog@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/amirasaad-ai)
 
 ---
 
@@ -63,6 +63,6 @@ Motion detection bot with Telegram integration and video/audio recording.
 
 I'm open to remote opportunities in AI engineering, data engineering, and Python backend roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-asaad-7a1629377)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirasaad-ai)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirasaadprog@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/amori27)

@@ -4,7 +4,7 @@
 
 I build production-grade AI systems, data pipelines, and automation tools. Currently studying Artificial Intelligence Engineering at Ishtar University College.
 
-📍 Babylon, Iraq · ✉️ amirasaadprog@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/amir-asaad-7a1629377)
+📍 Babylon, Iraq · ✉️ amirasaadprog@gmail.com · 🔗 [LinkedIn](www.linkedin.com/in/amirasaad-ai)
 
 ---
 

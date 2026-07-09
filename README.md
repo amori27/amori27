@@ -18,4 +18,4 @@ AI/ML engineer building production systems in NLP, RAG, and computer vision.
 
 ### Stats[
 
-https://githubcard.com/amori27.svg?d=2ZsHv1RewAb_
+https://githubcard.com/amori27.svg?d=2ZsHv1RewAb

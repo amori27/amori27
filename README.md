@@ -28,3 +28,4 @@ AI/ML engineer building production systems in NLP, RAG, and computer vision.
 ### Contact
 
 [LinkedIn](https://linkedin.com/in/amirasaad-ai) · [Email](mailto:amirasaadprog@gmail.com) · [GitHub](https://github.com/amori27)
+![GitHubCard](https://githubcard.com/amori27.svg)

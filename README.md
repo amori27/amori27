@@ -6,9 +6,6 @@ AI/ML engineer building production systems in NLP, RAG, and computer vision.
 
 ---
 
-### Featured
-
-- **[free-claude-code](https://github.com/amori27/free-claude-code)** — Route Claude Code, Codex CLI, JetBrains ACP, and LLM chat traffic to 17+ provider backends (NVIDIA NIM, OpenRouter, Gemini, Groq, Ollama, llama.cpp, etc.)
 - **[data-analysis-toolkit](https://github.com/amori27/data-analysis-toolkit)** — End-to-end SQL + Bash + Python analysis pipeline over real COVID-19 and sales datasets with Plotly dashboards
 - **[med-psych-rag](https://github.com/amori27/med-psych-rag)** — Citation-grounded RAG over medical and psychology documents. FastAPI, Gemini, LangChain
 - **[fleet-ops-console](https://github.com/amori27/fleet-ops-console)** — FastAPI backend for satellite and vehicle fleet operations: async SQLAlchemy, PostgreSQL, WebSocket telemetry, idempotent command dispatch

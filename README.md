@@ -17,15 +17,4 @@ AI/ML engineer building production systems in NLP, RAG, and computer vision.
 ---
 
 ### Stats
-
-[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=amori27&theme=dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=amori27&theme=dark&hide_border=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amori27&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
-
-### Contact
-
-[LinkedIn](https://linkedin.com/in/amirasaad-ai) · [Email](mailto:amirasaadprog@gmail.com) · [GitHub](https://github.com/amori27)
-![GitHubCard](https://githubcard.com/amori27.svg)
+https://githubcard.com/amori27.svg?d=2ZsHv1RewAb_

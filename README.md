@@ -2,7 +2,7 @@
 
 AI/ML engineer building production systems in NLP, RAG, and computer vision.
 
-[LinkedIn](https://linkedin.com/in/amirasaad-ai) · [Email](mailto:amirasaadprog@gmail.com) · Remote Data/AI/ML roles
+[LinkedIn](https://linkedin.com/in/amirasaad-) · [Email](mailto:amirasaadprog@gmail.com) · Remote Data/AI/ML roles
 
 ---
 
